@@ -114,6 +114,9 @@ BOOL CGlimDlg::OnInitDialog()
 
 	// TODO: 여기에 추가 초기화 작업을 추가합니다.
 
+	m_editRadius.SetWindowTextW(_T("10"));
+	m_editThickness.SetWindowTextW(_T("2"));
+
 	Gdiplus::GdiplusStartupInput gdiplusStartupInput;
 	Gdiplus::GdiplusStartup(&m_gdiplusToken, &gdiplusStartupInput, nullptr);
 

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\MFC\\Glim\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{48389CA8-AE67-EA59-5C63-CAF5EDD6C6D2}|Glim.vcxproj|C:\\MFC\\Glim\\Glim.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 2$  \u0022     ",
+      "RelativeMoniker": "D:0:0:{48389CA8-AE67-EA59-5C63-CAF5EDD6C6D2}|Glim.vcxproj|solutionrelative:Glim.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 2$  \u0022     "
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{48389CA8-AE67-EA59-5C63-CAF5EDD6C6D2}|Glim.vcxproj|C:\\MFC\\Glim\\GlimDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{48389CA8-AE67-EA59-5C63-CAF5EDD6C6D2}|Glim.vcxproj|solutionrelative:GlimDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48389CA8-AE67-EA59-5C63-CAF5EDD6C6D2}|Glim.vcxproj|C:\\MFC\\Glim\\GlimDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{48389CA8-AE67-EA59-5C63-CAF5EDD6C6D2}|Glim.vcxproj|solutionrelative:GlimDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48389CA8-AE67-EA59-5C63-CAF5EDD6C6D2}|Glim.vcxproj|C:\\MFC\\Glim\\Glim.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 2$  \u0022     ",
-      "RelativeMoniker": "D:0:0:{48389CA8-AE67-EA59-5C63-CAF5EDD6C6D2}|Glim.vcxproj|solutionrelative:Glim.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 2$  \u0022     "
     },
     {
       "AbsoluteMoniker": "D:0:0:{48389CA8-AE67-EA59-5C63-CAF5EDD6C6D2}|Glim.vcxproj|C:\\MFC\\Glim\\Glim.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,14 +42,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Glim.rc - IDD_GLIM_DIALOG - Dialog",
               "DocumentMoniker": "C:\\MFC\\Glim\\Glim.rc",
               "RelativeDocumentMoniker": "Glim.rc",
               "ToolTip": "C:\\MFC\\Glim\\Glim.rc - IDD_GLIM_DIALOG - Dialog",
               "RelativeToolTip": "Glim.rc - IDD_GLIM_DIALOG - Dialog",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-07-21T07:01:38.184Z"
+              "WhenOpened": "2025-07-21T07:01:38.184Z",
+              "EditorCaption": " - IDD_GLIM_DIALOG - Dialog"
             },
             {
               "$type": "Document",
@@ -65,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GlimDlg.h",
               "DocumentMoniker": "C:\\MFC\\Glim\\GlimDlg.h",
               "RelativeDocumentMoniker": "GlimDlg.h",
@@ -73,18 +74,17 @@
               "RelativeToolTip": "GlimDlg.h",
               "ViewState": "AgIAABsAAAAAAAAAAAAAAD0AAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-21T06:04:34.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T06:04:34.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GlimDlg.cpp",
               "DocumentMoniker": "C:\\MFC\\Glim\\GlimDlg.cpp",
               "RelativeDocumentMoniker": "GlimDlg.cpp",
               "ToolTip": "C:\\MFC\\Glim\\GlimDlg.cpp",
               "RelativeToolTip": "GlimDlg.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAHQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-21T06:02:36.942Z",
               "EditorCaption": ""
